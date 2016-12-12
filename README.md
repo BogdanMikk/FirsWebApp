@@ -1,2 +1,2 @@
 # FirstWebApp
-dic
+JsApp
